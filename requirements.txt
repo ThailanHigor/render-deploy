@@ -3,3 +3,5 @@ django-rest-framework
 requests
 drf_yasg
 gunicorn
+dj-database-url
+whitenoise
