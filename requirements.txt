@@ -1,0 +1,5 @@
+django
+django-rest-framework
+requests
+drf_yasg
+gunicorn
